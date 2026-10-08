@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/09/27 11:51:17.000.326,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2026/09/27 11:51:17.000.214,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026/09/28 01:35:39.000.630,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026/09/28 01:35:39.000.661,=C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2026/09/28 01:36:21.000.389,C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\Unit1.cpp</Transaction>
+    <Transaction>2026/09/28 01:36:21.000.389,C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\Unit1.dfm</Transaction>
+    <Transaction>2026/09/28 01:36:21.000.389,C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\Unit1.h</Transaction>
+    <Transaction>2026/09/28 01:36:21.000.304,C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\ProyectoCriptoPCH1.h</Transaction>
+    <Transaction>2026/09/28 01:36:21.000.510,C:\Users\Toshiba\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\ProyectoCripto.cbproj</Transaction>
+    <Transaction>2026/09/28 01:37:01.000.072,=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\core\MatrizMod26.cpp</Transaction>
+    <Transaction>2026/09/28 01:37:01.000.042,=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\core\AlfabetoHill.cpp</Transaction>
+    <Transaction>2026/09/28 01:37:01.000.065,=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\core\HillCipher.cpp</Transaction>
+    <Transaction>2026/09/28 01:37:01.000.058,=C:\Users\Toshiba\Desktop\pruebas_code\proyCriptoGUI\core\GaussJordan.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
